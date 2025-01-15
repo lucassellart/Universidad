@@ -1,0 +1,3 @@
+Este es el archivo de origen.
+Vamos a copiar este contenido.
+¡Buena suerte!

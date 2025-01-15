@@ -1,0 +1,4 @@
+Lo ultimo a tener en cuenta es cuando detener la lectura. Si el archivo se tiene
+que leer en forma completa, C provee una solucion para identificar el final de la
+lectura. Es una marca de final de archivo o EOF (End Of File). Si se ignorara
+este final la lectura serıa erronea.
